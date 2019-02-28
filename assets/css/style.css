@@ -1,0 +1,24 @@
+body{
+    background-image: url("../images/spiderman.png");
+    
+    color:red;
+}
+
+#display-time, #game-board, #done{
+    background-color: #eeee;
+}
+
+#rules, #title{
+    background-color:rgb(0, 119, 255);
+    color: black;
+}
+
+
+#start, #done{
+    margin-left: 40%;
+    padding:30px;
+    background: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: red;
+}
